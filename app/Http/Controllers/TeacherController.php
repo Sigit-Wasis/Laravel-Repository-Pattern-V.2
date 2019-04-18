@@ -51,7 +51,7 @@ class TeacherController extends Controller
 
     
     /**
-     * Store a task
+     * Store a teacher
      *
      * @var array $attributes
      * @return redirect
@@ -79,7 +79,7 @@ class TeacherController extends Controller
     }
 
     /**
-     * Update a task
+     * Update a teacher
      *
      * @var integer $id
      * @var array   $attributes
@@ -93,7 +93,7 @@ class TeacherController extends Controller
     }
 
     /**
-     * Delete a task
+     * Delete a teacher
      *
      * @var integer $id
      * @return redirect
